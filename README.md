@@ -1,6 +1,6 @@
 # Uber555 Partners Website
 
-Website about a company in the taxi market. This website is built with Bootstrap Grid and SASS.
+Website about a company in the taxi market. This website is built with Bootstrap Grid and Sass.
 
 ## Features
 
